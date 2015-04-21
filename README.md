@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/OwenBrotherwood/loopback-component-passport.png?label=ready&title=Ready)](https://waffle.io/OwenBrotherwood/loopback-component-passport)
 # LoopBack Passport Component
 
 **NOTE: This module supersedes [loopback-passport](https://www.npmjs.org/package/loopback-passport). Please update your package.json accordingly.**
